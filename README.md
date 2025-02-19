@@ -54,15 +54,4 @@ Retorna os detalhes de um evento específico pelo seu nome.
 - Spring Boot
 - H2 Database (ou outro banco de dados, se aplicável)
 
-
-1. Acesse a pasta do projeto:
-   ```sh
-   cd nlw-connect
-   ```
-2. Execute a aplicação:
-   ```sh
-   ./mvnw spring-boot:run
-   ```
-3. Acesse os endpoints via Postman ou navegador.
-
 ---
