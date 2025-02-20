@@ -58,10 +58,8 @@ Inscreve um participante em um evento com a opção de indicar um amigo.
 **Exemplo de Requisição:**
 ```json
 {
-    "eventId": 1,
     "userName": "João Silva",
-    "email": "joao@email.com",
-    "referralCode": "ABC123"
+    "email": "joao@email.com"
 }
 ```
 
